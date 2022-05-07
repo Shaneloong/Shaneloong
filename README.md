@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a student that is currently studying Software Engineering in Asia Pacific University of Technology and Innovation (APU).
+I am a student that is currently studying Software Engineering in Asia Pacific University of Technology and Innovation (APU). <br />
 I am passionate in learning new programming language and skills.
 
 ## Skills and Programming Languages
