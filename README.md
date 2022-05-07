@@ -12,7 +12,7 @@ I am passionate in learning new programming language and skills.
 
 #### Reach out with me here
 
-[<img src='https://skillicons.dev/icons?i=github&theme=light' alt='github' height='40'>](https://github.com/Shaneloong)  [<img src='https://skillicons.dev/icons?i=instagram&theme=light' alt='instagram' height='40'>](https://www.instagram.com/shane_loong/)  [<img src='https://cdn-icons.flaticon.com/png/512/1927/premium/1927768.png?token=exp=1651906132~hmac=cb07343654ed880e8c747a006de20451' alt='website' height='40'>](shane-keeper.heroku-app.com)  [<img src='https://skillicons.dev/icons?i=discord&theme=light' alt='discord' height='40'>](https://discordapp.com/users/689856418362425426/) 
+[<img src='https://skillicons.dev/icons?i=github&theme=light' alt='github' height='40'>](https://github.com/Shaneloong)  [<img src='https://skillicons.dev/icons?i=instagram&theme=light' alt='instagram' height='40'>](https://www.instagram.com/shane_loong/)  [<img src='https://skillicons.dev/icons?i=gcp&theme=light' alt='website' height='40'>](shane-keeper.heroku-app.com)  [<img src='https://skillicons.dev/icons?i=discord&theme=light' alt='discord' height='40'>](https://discordapp.com/users/689856418362425426/) 
 
 ##### My Stats in Github
 
