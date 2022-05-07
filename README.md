@@ -13,6 +13,5 @@ I am passionate in learning new programming language and skills.
 
 ##### My Stats in Github
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaneloong&show_icons=true&count_private=true)  
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaneloong&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaneloong)](https://github.com/anuraghazra/github-readme-stats)
