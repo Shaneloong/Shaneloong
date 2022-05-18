@@ -14,7 +14,9 @@ I am passionate in learning new programming language and skills.
 [![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://www.w3schools.com/css/)
 [![My Skills](https://skillicons.dev/icons?i=js&theme=light)](https://www.javascript.com/)
 [![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://nodejs.org/en/)
+[![My Skills](https://skillicons.dev/icons?i=jquery&theme=light)](https://jquery.com/)
 [![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://www.mysql.com/)
+
 
 ## Reach out with me here
 
